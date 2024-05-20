@@ -1,6 +1,6 @@
 ## Thyroid Disease Prediction
 
-This project focuses on the prediction and analysis of thyroid diseases, specifically hyperthyroidism and hypothyroidism, using machine learning models. The thyroid gland plays a crucial role in regulating metabolism through hormone release. Accurate diagnosis and prediction of thyroid diseases are essential for effective treatment and patient care.
+This project focuses on the prediction and analysis of thyroid diseases, hypothyroidism, using machine learning models. The thyroid gland plays a crucial role in regulating metabolism through hormone release. Accurate diagnosis and prediction of thyroid diseases are essential for effective treatment and patient care.
 
 ### Dataset
 The dataset used for this study is obtained from the UCI Machine Learning Repository, specifically focusing on hypothyroid data. The data has been preprocessed to ensure quality and relevance for analysis and model training.
